@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()  # Загружаем переменные окружения из .env файла
+
 from langgraph.graph import StateGraph, END
 
 from langchain_core.tools import BaseTool
