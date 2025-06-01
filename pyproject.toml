@@ -1,0 +1,12 @@
+[project]
+name = "langgraph_strictly"
+version = "0.1.0"
+description = "LangGraph project"
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.langgraph]
+entry_point = "main:app" 

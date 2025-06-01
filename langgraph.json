@@ -1,0 +1,10 @@
+{
+    "graphs": {
+      "default": "main:app"
+    },
+    "dependencies": [
+      "langgraph",
+      "langchain-openai"
+    ]
+  }
+  

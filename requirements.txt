@@ -1,0 +1,10 @@
+langgraph>=0.4.7
+langgraph-cli>=0.0.7
+langchain-core>=0.3.63
+langchain>=0.1.0
+typer>=0.16.0
+rich>=14.0.0
+hatchling>=1.21.0
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6
